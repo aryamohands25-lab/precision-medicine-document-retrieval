@@ -1,0 +1,9 @@
+numpy
+requests
+tqdm
+nltk
+rank_bm25
+scikit-learn
+torch
+datasets
+sentence-transformers
